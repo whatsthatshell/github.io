@@ -790,7 +790,7 @@ a#scrollUp:hover {
 }
 
 .bg-image--10 {
-  background-image: url(images/bg/10.jpg);
+  background-image: url(images/footer-bg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -938,14 +938,14 @@ a#scrollUp:hover {
 
 /* Background Image */
 .bg-pngimage--1 {
-  background-image: url(images/bg-png/1.png);
+  background-image: url(images/promo1.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
 }
 
 .bg-pngimage--2 {
-  background-image: url(images/bg-png/2.png);
+  background-image: url(images/promo2.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
