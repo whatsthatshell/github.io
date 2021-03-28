@@ -269,6 +269,9 @@ footer p {
   margin-bottom: .25rem;
 }
 
+footer a {color:#fff;}
+  footer a:hover {color:#eee;}
+
 .box-shadow { box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05); }
 
 
