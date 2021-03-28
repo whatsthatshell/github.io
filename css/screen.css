@@ -7,6 +7,13 @@ h1,h2,h3,h4,h5,h6 {font-family: 'Fjalla One', sans-serif;}
 h1 {color:#FE5F55;}
 .btn-default {border:2px solid #fff;}
 .homepage-cta a {color:#fff; text-transform:uppercase; font-weight:bold;}
+.homepage-header {background:url(../images/homepage-header.jpg) no-repeat; background-position;center center;}
+.shark-teeth-jumbo {background:url(../images/shark-tooth-header.jpg) no-repeat; background-position:center center;}
+.homepage-jumbo-text {color:#fff;}
+.shark-tooth-jumbo-text {color:#fff;}
+.btn-primary {background-color:transparent; color:#fff;}
+.jumbo-text-container {}
+.jumbotron-heading { padding:10px 0;}
 .card {
   height: 340px;
   margin: 1em;
